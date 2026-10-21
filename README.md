@@ -8,7 +8,7 @@ El sistema permite elegir un café corto, normal o largo, con o sin azúcar, y c
 
 ## Vídeo de demostración
 
-### [Ver el vídeo de la cafetera](https://upcomillas-my.sharepoint.com/:v:/g/personal/202301114_alu_comillas_edu/IQCw-3xlDj8JQKc9DCW5or0uARFAcWHtTdljE3raWDFIOhw)
+### [Ver el vídeo de la cafetera](https://drive.google.com/file/d/1HO8T3u3JXnaoja1u24xTDg114Xy015dR/view?usp=sharing)
 
 [Leer la memoria del proyecto](docs/informe-final.pdf) 
 
