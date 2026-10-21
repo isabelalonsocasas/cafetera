@@ -10,7 +10,7 @@ El sistema permite elegir un café corto, normal o largo, con o sin azúcar, y c
 
 ### [Ver el vídeo de la cafetera](https://drive.google.com/file/d/1HO8T3u3JXnaoja1u24xTDg114Xy015dR/view?usp=sharing)
 
-[Leer la memoria del proyecto](docs/informe-final.pdf) 
+[Leer la memoria del proyecto](Informe%20Final%20Microprocesadores.pdf)
 
 ## Diseño de la cafetera
 
